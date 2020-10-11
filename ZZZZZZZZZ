@@ -1,0 +1,4 @@
+OK - clientes -> id, name, email, created_at, updated_at
+OK - produtos -> id, name, price, quantity, created_at, updated_at
+OK - pedidos -> id, customer_id, created_at, updated_at
+OK - produtos_pedidos -> id, order_id, products_id, price, quantity, created_at, updated_at
